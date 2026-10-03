@@ -1,3 +1,4 @@
+/*
 // header.h: arquivo de inclusão para arquivos de inclusão padrão do sistema,
 // ou arquivos de inclusão específicos a um projeto
 //
@@ -13,3 +14,6 @@
 #include <malloc.h>
 #include <memory.h>
 #include <tchar.h>
+*/
+
+// This codes are unnecessary
